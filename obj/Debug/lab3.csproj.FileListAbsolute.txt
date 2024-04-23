@@ -1,0 +1,10 @@
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Vladyslav\OneDrive\Робочий стіл\хну\Основи програмної інженерії та тестування ПЗ\lab3\lab3\lab3\obj\Debug\lab3.pdb
